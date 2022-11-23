@@ -1,0 +1,29 @@
+body{
+    background-image: url("logo-peñascalf5-blanco.png"); /* The image used */
+    background-color: rgba(241, 88, 28, 0.5); /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+
+    #unidadesAbsolutas15px {
+        font-size: 200px;
+      }
+      
+    #unidadesRelivasEm {
+        font-size: 3.5em;
+      }  
+    #unidadesRelivasRem {
+        font-size: 3.5em;
+      }  
+    #unidadesRelativasVh {
+        font-size: 20vh;
+      }  
+    #unidadesRelativasVw {
+        font-size: 10vw;
+      }  
+
+
+
+
+}
